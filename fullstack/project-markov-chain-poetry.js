@@ -1,3 +1,5 @@
+//This is a work in progress. 
+
 //We know that the first step is building a Markov Chain out of a word corpus. So to start, write a function that accepts a string and returns an array of the words in the string, uniformly formatted with no numbers or punctuation.
 
 //let text = "Ever since I left the city, you, you, you You and me we just don't get along";
